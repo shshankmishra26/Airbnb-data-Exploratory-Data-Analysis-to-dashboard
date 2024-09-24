@@ -13,7 +13,7 @@ The main objective of this exploratory data analysis (EDA) project is to underst
 # Business Objective
 The business objective is to maximize occupancy rates, profitability, and guest satisfaction in the client's Airbnb rental business in New York City.
 
-Approach
+# Approach
 Here are the key steps for conducting an exploratory data analysis (EDA) for Airbnb Bookings analysis:
 
 Data acquisition: Obtain a representative sample of the data from the Airbnb company, including customer demographic information, review patterns, and availability, etc.
@@ -24,7 +24,7 @@ Data visualization: Use plots and charts to visualize the data and identify tren
 
 Data summarization: Use statistical techniques to summarize the data and understand the relationships between different variables. For example, you might calculate means, medians, and standard deviations to understand the distribution of continuous data like price and number of reviews. Overall, the goal of EDA for Airbnb booking analysis is to maximize occupancy rates, profitability, and guest satisfaction in the client's Airbnb rental business in New York City.
 
-Solution to Business Objective
+# Solution to Business Objective
 To achieve the business objective of maximizing occupancy rates, profitability, and guest satisfaction, the following solutions can be implemented:
 
 Optimize pricing strategy based on factors like location, property type, and amenities to maximize occupancy rates and profitability.
@@ -38,7 +38,7 @@ Seek guest feedback to identify areas for improvement and enhance the overall gu
 Foster positive community relations by being respectful, responsible, and considerate to maintain good community relationships.
 By following these suggestions, the client can optimize their operations, attract more guests, and achieve their business objectives of maximizing occupancy rates, profitability, and guest satisfaction.
 
-Conclusion
+# Conclusion
 The 2019 Airbnb NYC project revealed the following key findings:
 
 Significant growth in the number of listings in New York City, indicating a booming short-term rental market.
