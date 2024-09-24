@@ -1,16 +1,16 @@
 # Airbnb-data-Exploratory-Data-Analysis-to-dashboard
-⭐ AirBnb Booking Analysis (EDA) & Data Visualization using Power BI ⭐
+# ⭐ AirBnb Booking Analysis (EDA) & Data Visualization using Power BI ⭐
 This is EDA Capstone Project on topic Airbnb booking analysis
-Description
+# Description
 This is an EDA capstone project on Airbnb bookings data, for AlmaBetter full stack data science course.
 
 # Data Visualization using Power BI 
 ![Image Alt](https://github.com/shshankmishra26/Airbnb-data-Exploratory-Data-Analysis-to-dashboard/blob/main/airbnb_dashboard_powerbi.jpg?raw=true)
 
-Problem Statement
+# Problem Statement
 The main objective of this exploratory data analysis (EDA) project is to understand the dynamics of Airbnb rentals in New York City (NYC) by analyzing various factors such as pricing, availability, neighborhood groups, room types, and customer feedback. By examining the average price, number of listings, availability, and customer reviews, we aim to gain insights into the pricing patterns, popularity of neighborhoods, customer satisfaction, and market opportunities. This analysis will provide valuable information for potential investors or hosts to make informed decisions and understand the key factors influencing the success and profitability of Airbnb rentals in NYC.
 
-Business Objective
+# Business Objective
 The business objective is to maximize occupancy rates, profitability, and guest satisfaction in the client's Airbnb rental business in New York City.
 
 Approach
