@@ -4,7 +4,7 @@ This is EDA Capstone Project on topic Airbnb booking analysis
 Description
 This is an EDA capstone project on Airbnb bookings data, for AlmaBetter full stack data science course.
 
-Data Visualization using Power BI 
+# Data Visualization using Power BI 
 ![Image Alt](https://github.com/shshankmishra26/Airbnb-data-Exploratory-Data-Analysis-to-dashboard/blob/main/airbnb_dashboard_powerbi.jpg?raw=true)
 
 Problem Statement
