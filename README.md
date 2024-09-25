@@ -36,23 +36,23 @@ The business objective is to maximize occupancy rates, profitability, and guest 
 
 * Optimize pricing strategy based on factors like location, property type, and amenities to maximize occupancy rates and profitability.
 * Enhance the quality of listings by improving descriptions, photos, and amenities to attract potential guests.
-Prioritize excellent customer service to ensure a positive guest experience and encourage positive reviews.
-Maintain consistent property availability, especially during peak seasons and events, to maximize occupancy rates.
-Monitor competitor activity to stay competitive in the local market and adjust strategies accordingly.
-Implement special offers, discounts, or loyalty programs to attract and retain guests.
-Stay compliant with local regulations and legal requirements for short-term rentals.
-Seek guest feedback to identify areas for improvement and enhance the overall guest experience.
-Foster positive community relations by being respectful, responsible, and considerate to maintain good community relationships.
-By following these suggestions, the client can optimize their operations, attract more guests, and achieve their business objectives of maximizing occupancy rates, profitability, and guest satisfaction.
+* Prioritize excellent customer service to ensure a positive guest experience and encourage positive reviews.
+* Maintain consistent property availability, especially during peak seasons and events, to maximize occupancy rates.
+* Monitor competitor activity to stay competitive in the local market and adjust strategies accordingly.
+* Implement special offers, discounts, or loyalty programs to attract and retain guests.
+* Stay compliant with local regulations and legal requirements for short-term rentals.
+* Seek guest feedback to identify areas for improvement and enhance the overall guest experience.
+* Foster positive community relations by being respectful, responsible, and considerate to maintain good community relationships.
+* By following these suggestions, the client can optimize their operations, attract more guests, and achieve their business objectives of maximizing occupancy rates, profitability, and guest satisfaction.
 
 # Conclusion
 ## The 2019 Airbnb NYC project revealed the following key findings:
 
-Significant growth in the number of listings in New York City, indicating a booming short-term rental market.
-Manhattan emerged as the borough with the highest concentration of Airbnb listings.
-Pricing analysis showed that Manhattan consistently had the highest average nightly rates, while the outer boroughs offered more affordable options.
-Entire homes and apartments were the most common types of listings, indicating a preference for private accommodations among hosts and guests.
-However, shared rooms were also available, catering to different budget and accommodation preferences.
-Host demographics revealed that the majority of hosts in NYC were individuals who rented out their primary residences, suggesting a trend of using short-term rentals for additional income.
-The presence of hosts with multiple listings highlighted the emergence of professional hosts and potential concerns around commercialization.
-It is important to note that the project's findings were based on data of only 2019, and subsequent developments in regulations may have further shaped the market dynamics.
+* Significant growth in the number of listings in New York City, indicating a booming short-term rental market.
+* Manhattan emerged as the borough with the highest concentration of Airbnb listings.
+* Pricing analysis showed that Manhattan consistently had the highest average nightly rates, while the outer boroughs offered more affordable options.
+* Entire homes and apartments were the most common types of listings, indicating a preference for private accommodations among hosts and guests.
+* However, shared rooms were also available, catering to different budget and accommodation preferences.
+* Host demographics revealed that the majority of hosts in NYC were individuals who rented out their primary residences, suggesting a trend of using short-term rentals for additional income.
+* The presence of hosts with multiple listings highlighted the emergence of professional hosts and potential concerns around commercialization.
+* It is important to note that the project's findings were based on data of only 2019, and subsequent developments in regulations may have further shaped the market dynamics.
