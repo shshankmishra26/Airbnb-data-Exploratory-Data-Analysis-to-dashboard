@@ -17,18 +17,22 @@ The main objective of this exploratory data analysis (EDA) project is to underst
 The business objective is to maximize occupancy rates, profitability, and guest satisfaction in the client's Airbnb rental business in New York City.
 
 # Approach
-Here are the key steps for conducting an exploratory data analysis (EDA) for Airbnb Bookings analysis:
+## Here are the key steps for conducting an exploratory data analysis (EDA) for Airbnb Bookings analysis:
 
-Data acquisition: Obtain a representative sample of the data from the Airbnb company, including customer demographic information, review patterns, and availability, etc.
+## 1. Data acquisition:
+   Obtain a representative sample of the data from the Airbnb company, including customer demographic information, review patterns, and availability, etc.
 
-Data cleaning: Remove any missing or incomplete data and ensure that the data is in a format that can be easily analyzed.
+## 2. Data cleaning: 
+   Remove any missing or incomplete data and ensure that the data is in a format that can be easily analyzed.
 
-Data visualization: Use plots and charts to visualize the data and identify trends and patterns. For example, you might create histograms to understand the distribution of various continuous data like price, number of reviews, or scatter plots to identify correlations between different variables.
+## 3. Data visualization: 
+   Use plots and charts to visualize the data and identify trends and patterns. For example, you might create histograms to understand the distribution of various continuous data like price, number of reviews, or scatter plots to identify correlations between different variables.
 
-Data summarization: Use statistical techniques to summarize the data and understand the relationships between different variables. For example, you might calculate means, medians, and standard deviations to understand the distribution of continuous data like price and number of reviews. Overall, the goal of EDA for Airbnb booking analysis is to maximize occupancy rates, profitability, and guest satisfaction in the client's Airbnb rental business in New York City.
+## 4. Data summarization: 
+   Use statistical techniques to summarize the data and understand the relationships between different variables. For example, you might calculate means, medians, and standard deviations to understand the distribution of continuous data like price and number of reviews. Overall, the goal of EDA for Airbnb booking analysis is to maximize occupancy rates, profitability, and guest satisfaction in the client's Airbnb rental business in New York City.
 
 # Solution to Business Objective
-To achieve the business objective of maximizing occupancy rates, profitability, and guest satisfaction, the following solutions can be implemented:
+## To achieve the business objective of maximizing occupancy rates, profitability, and guest satisfaction, the following solutions can be implemented:
 
 Optimize pricing strategy based on factors like location, property type, and amenities to maximize occupancy rates and profitability.
 Enhance the quality of listings by improving descriptions, photos, and amenities to attract potential guests.
@@ -42,7 +46,7 @@ Foster positive community relations by being respectful, responsible, and consid
 By following these suggestions, the client can optimize their operations, attract more guests, and achieve their business objectives of maximizing occupancy rates, profitability, and guest satisfaction.
 
 # Conclusion
-The 2019 Airbnb NYC project revealed the following key findings:
+## The 2019 Airbnb NYC project revealed the following key findings:
 
 Significant growth in the number of listings in New York City, indicating a booming short-term rental market.
 Manhattan emerged as the borough with the highest concentration of Airbnb listings.
