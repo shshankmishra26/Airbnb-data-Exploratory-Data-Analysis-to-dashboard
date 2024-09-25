@@ -34,8 +34,8 @@ The business objective is to maximize occupancy rates, profitability, and guest 
 # Solution to Business Objective
 ## To achieve the business objective of maximizing occupancy rates, profitability, and guest satisfaction, the following solutions can be implemented:
 
-Optimize pricing strategy based on factors like location, property type, and amenities to maximize occupancy rates and profitability.
-Enhance the quality of listings by improving descriptions, photos, and amenities to attract potential guests.
+* Optimize pricing strategy based on factors like location, property type, and amenities to maximize occupancy rates and profitability.
+* Enhance the quality of listings by improving descriptions, photos, and amenities to attract potential guests.
 Prioritize excellent customer service to ensure a positive guest experience and encourage positive reviews.
 Maintain consistent property availability, especially during peak seasons and events, to maximize occupancy rates.
 Monitor competitor activity to stay competitive in the local market and adjust strategies accordingly.
